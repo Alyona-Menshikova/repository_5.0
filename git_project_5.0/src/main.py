@@ -1,3 +1,2 @@
-print('Hello linux')
-
+print('Hello world')
 
